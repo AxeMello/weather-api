@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AxeMello/weather-api/tree/main/src/index.html/static/css/main.16db1b01.css",
-    "main.js": "/AxeMello/weather-api/tree/main/src/index.html/static/js/main.6031db5f.js",
-    "static/media/splash-icon.svg": "/AxeMello/weather-api/tree/main/src/index.html/static/media/splash-icon.699b0bc5b331eb7ddb039683ec3decf4.svg",
-    "static/media/humidity.svg": "/AxeMello/weather-api/tree/main/src/index.html/static/media/humidity.6499a5cec9fcc141b70dcdb6a54adc66.svg",
-    "index.html": "/AxeMello/weather-api/tree/main/src/index.html/index.html",
-    "main.16db1b01.css.map": "/AxeMello/weather-api/tree/main/src/index.html/static/css/main.16db1b01.css.map",
-    "main.6031db5f.js.map": "/AxeMello/weather-api/tree/main/src/index.html/static/js/main.6031db5f.js.map"
+    "main.css": "/weather-api/static/css/main.16db1b01.css",
+    "main.js": "/weather-api/static/js/main.82b90cc5.js",
+    "static/media/splash-icon.svg": "/weather-api/static/media/splash-icon.699b0bc5b331eb7ddb039683ec3decf4.svg",
+    "static/media/humidity.svg": "/weather-api/static/media/humidity.6499a5cec9fcc141b70dcdb6a54adc66.svg",
+    "index.html": "/weather-api/index.html",
+    "main.16db1b01.css.map": "/weather-api/static/css/main.16db1b01.css.map",
+    "main.82b90cc5.js.map": "/weather-api/static/js/main.82b90cc5.js.map"
   },
   "entrypoints": [
     "static/css/main.16db1b01.css",
-    "static/js/main.6031db5f.js"
+    "static/js/main.82b90cc5.js"
   ]
 }
